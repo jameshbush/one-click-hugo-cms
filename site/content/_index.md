@@ -1,7 +1,7 @@
 ---
 title: Netlify
 subtitle: Everything you need -- to build websites without servers
-image: img/products-grid2.jpg
+image: img/blog-chemex.jpg
 blurb:
   heading: What is Netlify?
   text: >
