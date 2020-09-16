@@ -1,20 +1,31 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Netlify
+subtitle: Everything you need -- to build websites without servers
+image: img/products-grid2.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: What is Netlify?
+  text: >
+    GitHub Pages (static) / AWS Lambda / Cloudflare (CDN/DNS) / additional
+    integrations & features
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Who it's for
+  text: Small applications and small teams. Great when you don't want too many
+    moving parts (no servers, certificates, databases, clusters, build
+    pipelines).
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/screen-shot-2020-09-16-at-6.16.30-pm.png
+    text: Follow along with this QR code for this Hugo website
+      (https://focused-heisenberg-8c549d.netlify.app)
+  - image: img/mugbw.jpg
+    text: By the way, I'm James...I've been building Web Applications with
+      DeveloperTown (Indianapolis) for four years. I have experience with Ruby
+      on Rails, React, and Node. Today, I'm looking for my next opportunity.
+      Feel free to start a convo on LinkedIn, or Indy Hackers
+      https://www.linkedin.com/in/jameshbush
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
-
